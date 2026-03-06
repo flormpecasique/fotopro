@@ -9,9 +9,9 @@ Puedes ver la web funcionando aquí:
 
 ## 📌 Descripción
 
-Este proyecto consiste en una **landing page diseñada para presentar y promocionar el programa "Método Steel"**, una formación orientada a entrenadoras de gimnasia rítmica.
+Este proyecto consiste en una **landing page diseñada para presentar y promocionar el programa "Método Express"**, un conjunto de prompts para convertir una selfie en una foto profesional para perfil de linkedin o CV.
 
-La página está diseñada con un enfoque en **claridad visual, estructura de venta y optimización de conversión**, mostrando la propuesta de valor del método y facilitando la captación de posibles alumnas.
+La página está diseñada con un enfoque en **claridad visual, estructura de venta y optimización de conversión**, mostrando la propuesta de valor del método y facilitando la captación.
 
 El proyecto fue desarrollado como una **web estática** y desplegado en la plataforma de hosting de frontend **Vercel**.
 
@@ -35,10 +35,7 @@ El proyecto fue desarrollado como una **web estática** y desplegado en la plata
 fotopro/
 │
 ├── index.html
-├── style.css
-├── script.js
-└── assets/
-  └── imágenes y recursos
+├── preview.png
 
 
 ## 📚 Aprendizajes
