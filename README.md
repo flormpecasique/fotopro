@@ -1,4 +1,4 @@
-# Método Steel – Landing Page
+# Método Express – Landing Page
 
 ![Preview del proyecto](preview.png)
 
